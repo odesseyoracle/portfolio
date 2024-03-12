@@ -1,2 +1,2 @@
-# portfolio
-WebDev Portfolio
+# My Portfolio
+Welcome to my web development portfolio! Here, you'll find a collection of my latest projects, showcasing my skills in front-end and back-end development, UI/UX design, and more. Each project represents a unique challenge I've tackled, utilizing a variety of technologies such as HTML, CSS, JavaScript, React, Node.js, and more. Dive in to explore my work and see how I bring creativity and functionality together to create seamless web experiences.
